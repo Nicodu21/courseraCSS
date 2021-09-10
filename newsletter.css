@@ -24,7 +24,7 @@ h1,h2,h3 {
 * {
 	font-family:"Lato",sans-serif;
 	box-sizing: border-box;
-	line-height: 30px;
+	line-height: 40px;
 
 
 	}
@@ -67,4 +67,22 @@ ul,a {
 	width: 100%;
 }
 
+.LC {
+	background-color: #52565E;
+	border: 2px solid #00C16E;
+	margin-bottom: 10px;
+	padding: 10px 10px 180px 50px ;
 
+	}
+.imageLC {
+	border: 0px solid #52565E ;
+	width: 40%;
+	float: left;
+	margin: 0px 60px 0px 0px ;
+}
+
+.listeLC {
+	margin: 70px;
+	font-size: 20px;
+	color: #F3F4F7;
+}
