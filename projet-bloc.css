@@ -53,10 +53,6 @@ body {
 	margin-bottom: 40px;
 }
 
-ul,ol {list-style: none;}
-
-li::before {content: "➡"; color: #52565E;display: inline-block; width: 1em;
-  margin-left: -1em}
 
 .bloc-SDG {
 	border: 2px solid #52565E;
