@@ -136,12 +136,17 @@ body {
 
 }
 .bloc-ef {
-	border: 2px solid #003940;
+	border: 2px solid #52565E;
 	text-align: ;
 	color: #003940;
 	margin-bottom: 40px;
 	margin-top: 40px;
 } 
+
+.bloc-cs {
+	border: 2px solid #52565E;
+	margin-bottom: 40px;
+}
 
 .bloc-news {
 	border: 2px solid #52565E;
@@ -219,6 +224,7 @@ body {
 	color: #52565E;
 	border: 2px solid #52565E;
 	margin-top: 40px;
+
 }
 .bloc-footer {
 	background-color: #52565E ;
