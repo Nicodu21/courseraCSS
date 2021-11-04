@@ -37,7 +37,7 @@ h2,h3 {
 			
 	}
 body {
-	width: 65%;
+	width: 70%;
 	margin: auto;
 }
 * {
@@ -163,7 +163,7 @@ body {
 
 .bloc-cs {
 	border: 2px solid #52565E;
-	
+	margin-bottom: 40px;
 }
 
 .bloc-news {
