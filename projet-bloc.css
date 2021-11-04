@@ -15,6 +15,17 @@
 	margin-bottom: 40px;
 }
 
+section p,div {
+	text-align: initial;
+	margin-left: 30px;
+	margin-right: 30px;
+	
+}
+
+.centered {
+	text-align: center;
+}
+
 h2,h3 {
 	color: #00C16E ;
 	background-color: ;
@@ -35,12 +46,13 @@ body {
 	line-height: 50px;
 	font-size: 25px;
 	
+	
 
 
 	}
 
 .bloc-table{
-	text-align: center;
+	text-align: ; 
 	border: 2px solid #52565E;
 	margin-top: 40px;
 	margin-bottom: 40px;
@@ -49,7 +61,7 @@ body {
 .bloc-intro {
 	border: 2px solid #52565E;
 	color: #52565E;
-	text-align: center;
+	text-align: ;
 	margin-top: 40px;
 	margin-bottom: 40px;
 }
@@ -58,7 +70,8 @@ body {
 .bloc-SDG {
 	border: 2px solid #52565E;
 	color: #52565E;
-	text-align: center;
+	text-align: ;
+	margin-left: ;
 	margin-bottom: 0px;
 	border-bottom: 0px solid white;
 }
@@ -66,24 +79,24 @@ body {
 .bloc-mail {
 	margin-top: 10px;
 	margin-bottom: 10px;
-	color: #037Ef3;
+	color: #52565E; 
 }
 
 .bloc-concours{
 	border: 2px solid #52565E;
 	border-top: 0px solid white;
 	color: #52565E;
-	text-align: center;
+	text-align: ;
 
 }
 
 .world {
-	background-color: #52565E;
+	background-color: ;
 	border: 2px solid #F48924;
 	text-align: center;
 	font-weight: ;
 	padding: 10px 10px 10px 10px;
-	color: #F3F4F7;
+	color: #52565E;
 	margin-top: 40px;
 	margin-bottom: 40px;
 }
@@ -102,23 +115,22 @@ body {
 
 .bloc-temoignage {
 	border: 2px solid #52565E;
-	border-top: 1px inset; #52565E;
 	color: #52565E;
 	text-align: center;
 	margin-bottom: 40px;
 }
 .bloc-recrutement {
-	border: 2px solid #52565E;
+	border: 2px solid #037Ef3;
 	text-align: center;
 	color: #52565E;
 	margin-bottom: 40px;
 	margin-top: 40px;
 }	
 .thebox {
-	background-color: #52565E;
+	background-color: ;
 	border: 2px solid #F85A40;
 	font-weight: ;
-	color: #F3F4F7;
+	color: #52565E;
 	padding: 10px 10px 10px 10px;
 	margin-left: 0px;
 	margin-right: 0px;
@@ -143,9 +155,15 @@ body {
 	margin-top: 40px;
 } 
 
+.titre-ef {
+	width: 50%;
+	text-align: center;
+	color: #FF00FF;
+}
+
 .bloc-cs {
 	border: 2px solid #52565E;
-	margin-bottom: 40px;
+	
 }
 
 .bloc-news {
@@ -164,37 +182,28 @@ body {
 	
 }
 
-
 .LC {
-	border-top: 2px solid #00C16E;
-	border-bottom: 2px solid #00C16E;
+	border: 2px solid #52565E;
 	margin-top: 30px;
-	background-color: #52565E;
 	margin-bottom: 40px;
 	
 
 	}
 .imageLC {
 	width: 100%;
-	margin-left: 0px;
+	margin-left: ;
+
 
 }
 
 .listeLC {
-	margin-top: 0px;
 	font-size: 20px;
-	color: #F3F4F7;
+	color: #52565E;
 	padding: 0px 10px 10px 10px;
-	text-align: center;
+	
 }
 
 
-.blocLC-titre {
-	padding: 10px 10px 10px 10px;
-	color: #F3F4F7;
-	text-align: center;
-	font-size: 30px;
-}
 
 .blocvideo1 {
 	text-align: center;
@@ -227,9 +236,9 @@ body {
 
 }
 .bloc-footer {
-	background-color: #52565E ;
-	color: #F3F4F7;
+	background-color: #CACCD1 ;
+	color: #52565E;
 	text-align: center;
+	margin-top: 40px;
 	padding: 20px;
-	margin-top: 0px;
 	margin-bottom: 40px;
