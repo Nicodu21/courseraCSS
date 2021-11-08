@@ -165,7 +165,11 @@ body {
 	border: 2px solid #52565E;
 	margin-bottom: 40px;
 }
-
+.bloc-charitea {
+	border: 2px solid  #52565E;
+	text-align: center;
+	color: #52565E;
+}
 .bloc-news {
 	border: 2px solid #52565E;
 	text-align: center;
@@ -173,7 +177,6 @@ body {
 	margin-bottom: 40px;
 	margin-top: 40px;
 }
-
 
 
 .blocgris {
