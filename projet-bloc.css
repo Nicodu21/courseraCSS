@@ -161,6 +161,14 @@ body {
 	color: #FF00FF;
 }
 
+.bloc-mario {
+	text-align: center;
+	border: 2px solid #52565E;
+	margin-bottom: 40px;
+}
+
+
+
 .bloc-cs {
 	border: 2px solid #52565E;
 	margin-bottom: 40px;
@@ -169,6 +177,7 @@ body {
 	border: 2px solid #52565E;
 	text-align: center;
 	color: #52565E;
+	margin-bottom: 40px;
 }
 .bloc-news {
 	border: 2px solid #52565E;
